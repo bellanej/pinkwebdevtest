@@ -22,3 +22,5 @@ function unDo(){
  
     bigImage.innerHTML = origText;
 }
+
+//lägger till kommentar
